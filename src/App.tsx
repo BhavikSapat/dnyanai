@@ -1069,8 +1069,15 @@ export default function App() {
             </nav>
 
             <div className="text-[11.5px] sm:text-[12.5px] text-white/45">
-              © {new Date().getFullYear()} {INSTITUTE_INFO.name} ·{" "}
-              {INSTITUTE_INFO.sloganSecondary}
+              Developed by{" "}
+              <a
+                href="https://github.com/BhavikSapat"
+                target="_blank"
+                className="underline"
+              >
+                {" "}
+                Bhavik Sapat
+              </a>
             </div>
           </div>
         </div>
