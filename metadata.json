@@ -1,0 +1,6 @@
+{
+  "name": "Dnyanai Institute",
+  "description": "Master new skills and track your progress at Dnyanai Institute with personalized, project-driven learning paths in Business, Data & AI, Digital Marketing, and UI/UX Design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

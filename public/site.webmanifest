@@ -1,0 +1,16 @@
+{
+  "name": "Dnyanai Computer Education",
+  "short_name": "Dnyanai",
+  "description": "Govt. recognized MS-CIT, GCC-TBC Typing (Code: 15433), Tally Prime, Excel, SAP, SQL & AI training in Padgha, Bhiwandi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F4",
+  "theme_color": "#F95514",
+  "icons": [
+    {
+      "src": "/logo-dark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
